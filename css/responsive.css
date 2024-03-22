@@ -36,6 +36,10 @@
     height: 100%;
   }
 
+  .navigation .navbar .nav__logo img{
+    width: 190%;
+  }
+
   .navigation .navbar__nav {
     margin-top: 6%;
     text-align: center;
