@@ -35,11 +35,9 @@
     padding-top: 1rem;
     height: 100%;
   }
-  .navigation .navbar img {
-    width: 20%;
-  }
+
   .navigation .navbar__nav {
-    margin-top: 5rem;
+    margin-top: 6%;
     text-align: center;
   }
   .navigation .navbar__nav a {
